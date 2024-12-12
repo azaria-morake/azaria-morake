@@ -62,8 +62,8 @@ When I'm not coding, you'll find me doing research 📖, playing video games �
 
 ## 🚀 Featured Projects
 - [**Biographic Website**](https://github.com/azaria-morake/portfolio-website): A personal website showcasing my skills, articles, and portfolio.
-- [**NSFP Platform**](https://github.com/azaria-morake/nsfp-platform): Connecting soccer teams to donors and facilities for better performance in South Africa.
-- [**FinBridge**](https://github.com/azaria-morake/finbridge): A FinTech platform empowering SMEs with financial inclusion and AI-driven insights.
+- [**NSFP Platform**](https://github.com/azaria-morake/NationalFacilitiesProjects): Connecting soccer teams to donors and facilities for better performance in South Africa.
+- [**FinBridge**](https://github.com/azaria-morake/FinBridge): A FinTech platform empowering SMEs with financial inclusion and AI-driven insights.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azaria-morake&layout=compact&theme=radical)
 
