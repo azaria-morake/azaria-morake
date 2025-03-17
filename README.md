@@ -5,7 +5,7 @@
 
 
 ## 👨‍💻 About Me
-I'm a passionate software developer specializing in **OpenStack** and full-stack development. I love solving real-world problems through code and sharing knowledge via articles and projects. 
+I'm a passionate software developer specializing in **full-stack development**. I love solving real-world problems through code and sharing knowledge via articles and projects. 
 
 When I'm not coding, you'll find me doing research 📖, playing video games 🎮, skating 🏂, playing soccer ⚽, or exploring nature 🌳.  
 
