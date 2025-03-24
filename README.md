@@ -1,5 +1,5 @@
 # Hi there, I'm Azaria! 👋
-### 🚀 Software Developer | OpenStack Specialist | Innovator
+### 🚀 Software Developer | Full-Stack Dev | Innovator
 
 ---
 
